@@ -21,7 +21,7 @@
 ### 重建结果展示
 
 ![三维重建结果](result_photo.png)
-![三维可视化结果](.\output\03_3d_result.jpg)
+![三维可视化结果](result_photo2.png)
 
 ---
 
